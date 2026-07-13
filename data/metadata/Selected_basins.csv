@@ -1,8 +1,8 @@
 HUCID,gauge_in,gauge_out,confidence,notes,decisions,merge_id
 18100204,"US09527700, US10259540",,high,"endorheic basin, no outflow",inc,
 18090202,,US10251330,high,,inc,
-18070203,,US11078000,high,add 70202,inc,
-18070202,,US11078000,high,merge with 70203,inc,
+18070203,,US11078000,high,add 70202,inc,6
+18070202,,US11078000,high,merge with 70203,inc,6
 18060005,,US11152500,high,,inc,1
 18060004,,US11152500,moderate  ,,inc,1
 18040014,,US11255575,high,,inc,
@@ -39,8 +39,8 @@ HUCID,gauge_in,gauge_out,confidence,notes,decisions,merge_id
 17070306,,US14103000,high,,,
 17070305,,US14087400,moderate,,,
 17070204,,US14048000,low,West portion ungauged,,
-17070203,,US14044000,low,merge with 202,,
-17070202,,US14046000,low,combined outflow with 203,,
+17070203,,US14044000,low,,,
+17070202,,US14046000,low,,,
 17070106,,US14113000,moderate,,,
 17070103,,US14033500,high,,,
 17070102,,US14018500,moderate,distance from outlet,,
