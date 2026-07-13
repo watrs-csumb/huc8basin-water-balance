@@ -1,6 +1,5 @@
 HUCID,gauge_in,gauge_out,confidence,notes,decisions,merge_id
-18100204,US09527700,,high,"endorheic basin, no outflow",inc,
-18100204,US10259540,,high,"endorheic basin, no outflow",inc,
+18100204,"US09527700, US10259540",,high,"endorheic basin, no outflow",inc,
 18090202,,US10251330,high,,inc,
 18070203,,US11078000,high,add 70202,inc,
 18070202,,US11078000,high,merge with 70203,inc,
@@ -29,16 +28,14 @@ HUCID,gauge_in,gauge_out,confidence,notes,decisions,merge_id
 17100103,,US12031000,high,,inc,
 17090011,,US14211010,moderate,,inc,
 17090010,,US14207500,high,,inc,
-17090009,,US14202000,moderate,distance from outlet contains 2 gauges for fork,inc,
-17090009,,US14200000,moderate,distance from outlet contains 2 gauges for fork,inc,
+17090009,,"US14202000, US14200000",moderate,distance from outlet contains 2 gauges for fork,inc,
 17090006,,US14189000,moderate,combined inflow from 005,inc,3
 17090005,,US14189000,high,combined outflow with 006,inc,3
 17090004,,US14165500,high,,inc,
 17090002,,US14157500,moderate,"distance from outlet, averaged over space",inc,
 17090001,,US14152000,moderate,"distance from outlet, averaged over space",inc,
 17080004,,US14233500,high,,inc,
-17080002,,US14220500,low,distance from outlet,,
-17080002,,US14222500,low,distance from outlet,,
+17080002,,"US14220500, US14222500",low,distance from outlet,,
 17070306,,US14103000,high,,,
 17070305,,US14087400,moderate,,,
 17070204,,US14048000,low,West portion ungauged,,
@@ -63,8 +60,7 @@ HUCID,gauge_in,gauge_out,confidence,notes,decisions,merge_id
 17040210,,US13154500,low,Merge with 212,,5
 17040209,US13077000,US13087995,high,,,5
 17040205,,US13058000,low,complex outflow system,,
-17040204,,US13055340,low,"distance from outlet, averaged ",,
-17040204,,US13055250,low,"distance from outlet, averaged ",,
+17040204,,"US13055340, US13055250",low,"distance from outlet, averaged ",,
 17040202,,US13046000,high,,,
 17040201,,US13058529,moderate,distance from outlet,,
 17040105,,US13027500,moderate,"distance from outlet, averaged in area",,
